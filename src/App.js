@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>I just added yarn</p>
+        <p>I installed affinity stuff</p>
         <a
           className="App-link"
           href="https://reactjs.org"
